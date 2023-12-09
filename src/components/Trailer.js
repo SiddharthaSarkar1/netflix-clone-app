@@ -48,7 +48,9 @@ const Trailer = ({location, movieId}) => {
 
     return (
         <div>
-          <Button variant="contained" sx={{color: "black", bgcolor: "white"}} onClick={openModal}>Play Trailer</Button>
+          <Button variant="contained" sx={{color: "black", bgcolor: "white"}} onClick={openModal}>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-play"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+            Play Trailer</Button>
           <Modal
             isOpen={modalIsOpen}
             onAfterOpen={afterOpenModal}
