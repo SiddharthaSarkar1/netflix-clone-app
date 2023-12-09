@@ -8,6 +8,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import Background from '../images/signinbg.png';
+import GoogleIcon from '../images/googleIcon.png';
 
 const Signin = () => {
 
@@ -42,6 +43,7 @@ const Signin = () => {
         </div>
         <br />
         <Button onClick={googleSignIn} variant="contained" color="error">
+        <img src={GoogleIcon} alt="google icon" style={{ height: "25px", width: "25px", marginRight: "10px", borderRadius: "50%" }} />
           Sign In with Google
         </Button>
       </div>
