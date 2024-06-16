@@ -8,6 +8,8 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Trailer from "./Trailer";
 
+const browseList = ["Home", "TV Shows", "Movies", "New & Popular", "My List"];
+
 const Navbar = () => {
   const logout = async () => {
     try {
@@ -80,6 +82,19 @@ const Navbar = () => {
         }}
       >
         <img style={{ width: "150px" }} src={netflixLogo} />
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          {browseList.map((item, index) => (
+            <div key={index} style={{ color: "#fff", padding: "10px", fontWeight: "bold" }}>
+              {item}
+            </div>
+          ))}
+        </div>
         <div>
           {auth.currentUser?.emailVerified ? (
             <Button
