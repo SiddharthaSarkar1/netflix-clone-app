@@ -23,12 +23,23 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   const [movies, setMovies] = useState([]);
+  const [randomIndex, setRandomIndex] = useState(0);
+
+  const getRandomInt = (min, max) => {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  };
 
   const getMovie = () => {
     try {
-      fetch(`${process.env.REACT_APP_BASE_URL}${process.env.REACT_APP_API_KEY}`)
-        .then((res) => res.json())
-        .then((json) => setMovies(json.results));
+      // fetch(`${process.env.REACT_APP_BASE_URL}${process.env.REACT_APP_API_KEY}`)
+      //   .then((res) => res.json())
+      //   .then((json) => setMovies(json.results));
+
+      fetch("/data.json")
+        .then((response) => response.json())
+        .then((data) => setMovies(data.movie));
     } catch (err) {
       console.log(err);
     }
@@ -36,6 +47,8 @@ const Navbar = () => {
 
   useEffect(() => {
     getMovie();
+    const index = getRandomInt(0, 20);
+    setRandomIndex(index);
   }, []);
 
   const signinClick = () => {
@@ -50,7 +63,7 @@ const Navbar = () => {
       style={{
         backgroundImage: `linear-gradient(
             rgba(0,0,0, 0.5), 
-            rgba(0,0,0, 0.5)),url(https://image.tmdb.org/t/p/original/${movies[5]?.poster_path})`,
+            rgba(0,0,0, 0.5)),url(${movies[randomIndex]?.banner})`,
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
@@ -93,16 +106,52 @@ const Navbar = () => {
         <h1
           style={{ color: "#f1f1f1", fontSize: "60px", fontFamily: "initial" }}
         >
-          {movies[5]?.original_title}
+          {movies[randomIndex]?.title}
         </h1>
-        <h3 style={{ color: "#f1f1f1" }}>{movies[8]?.overview}</h3>
-        {/* <Button
+        <h3 style={{ color: "#f1f1f1" }}>{movies[randomIndex]?.overview}</h3>
+
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "left",
+            alignItems: "center",
+          }}
+        >
+          {/* <Button
           variant="containes"
           sx={{ color: "black", bgcolor: "white", fontWeight: "bold" }}
         >
           View Trailer
         </Button> */}
-        <Trailer movieId={movies[8]?.id} />
+          <Trailer movieId={movies[8]?.id} />
+          <Button
+            variant="contained"
+            sx={{
+              color: "white",
+              bgcolor: "gray",
+              opacity: "0.5",
+              marginLeft: "15px",
+            }}
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="lucide lucide-badge-info"
+            >
+              <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" />
+              <line x1="12" x2="12" y1="16" y2="12" />
+              <line x1="12" x2="12.01" y1="8" y2="8" />
+            </svg>
+            More Info
+          </Button>
+        </div>
       </div>
     </div>
   );

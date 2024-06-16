@@ -62,7 +62,7 @@ const MovieDetail = () => {
           style={{
             backgroundImage: `linear-gradient(
                 rgba(0,0,0, 0.5), 
-                rgba(0,0,0, 0.5)),url(https://image.tmdb.org/t/p/original/${location.state.movie.poster_path})`,
+                rgba(0,0,0, 0.5)),url(${location.state.movie.poster})`,
             height: "100vh",
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
@@ -89,15 +89,15 @@ const MovieDetail = () => {
                   textShadow: "2px 2px 4px black",
                 }}
               >
-                {location.state.movie?.original_title}
+                {location.state.movie?.title}
               </h2>
             </Grid>
             <div style={{ display: "flex" }}>
               <h4 style={{ color: "white" }}>
-                Language : {location.state.movie?.original_language},
+                {/* Language : {location.state.movie?.original_language}, */}
               </h4>
               <h4 style={{ color: "white", marginLeft: "10px" }}>
-                Release Date : {location.state.movie?.release_date}
+                Rating : {location.state.movie?.rating}
               </h4>
             </div>
             <Grid container>

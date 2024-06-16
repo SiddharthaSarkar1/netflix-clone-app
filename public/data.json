@@ -1,0 +1,2354 @@
+{
+  "movie": [
+    {
+      "id": 653346,
+      "title": "Kingdom of the Planet of the Apes",
+      "rating": 6.816,
+      "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+      "poster": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "rating": 7.013,
+      "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+      "poster": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/ga4OLm4qLxPqKLMzjJlqHxVjst3.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ]
+    },
+    {
+      "id": 1022789,
+      "title": "Inside Out 2",
+      "rating": 7.316,
+      "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/qjoX7hl721FOiyeHsDkeQ6rFVLl.jpg",
+      "genre": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 1001311,
+      "title": "Under Paris",
+      "rating": 5.791,
+      "overview": "In the Summer of 2024, Paris is hosting the World Triathlon Championships on the Seine for the first time. Sophia, a brilliant scientist, learns from Mika, a young environmental activist, that a large shark is swimming deep in the river. To avoid a bloodbath at the heart of the city, they have no choice but to join forces with Adil, the Seine river police commander.",
+      "poster": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/xQkotnzv12fm9FF29if1cBLsyU3.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ]
+    },
+    {
+      "id": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "rating": 7.2,
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 955555,
+      "title": "The Roundup: No Way Out",
+      "rating": 7.004,
+      "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+      "poster": "https://image.tmdb.org/t/p/w500/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ]
+    },
+    {
+      "id": 929590,
+      "title": "Civil War",
+      "rating": 7.015,
+      "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+      "poster": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10752,
+          "name": "War"
+        }
+      ]
+    },
+    {
+      "id": 626412,
+      "title": "Alienoid: Return to the Future",
+      "rating": 6.61,
+      "overview": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+      "poster": "https://image.tmdb.org/t/p/w500/4RClncz0GTKPZzSAcAalHCw0h3g.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/kZbTOcTrEGyroQMWQSGIRlNSkwP.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ]
+    },
+    {
+      "id": 719221,
+      "title": "Tarot",
+      "rating": 6.469,
+      "overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+      "poster": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/oavbmL3iddJUmC8nQjL6bLHwAP4.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 150540,
+      "title": "Inside Out",
+      "rating": 7.915,
+      "overview": "From an adventurous balloon ride above the clouds to a monster-filled metropolis, Academy Award®-winning director Pete Docter (“Monsters, Inc.,” “Up”) has taken audiences to unique and imaginative places. In Disney and Pixar’s original movie “ Inside Out,” he will take us to the most extraordinary location of all—inside the mind.",
+      "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+      "genre": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 974635,
+      "title": "Hit Man",
+      "rating": 6.945,
+      "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+      "poster": "https://image.tmdb.org/t/p/w500/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+      "genre": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ]
+    },
+    {
+      "id": 614933,
+      "title": "Atlas",
+      "rating": 6.721,
+      "overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+      "poster": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 746036,
+      "title": "The Fall Guy",
+      "rating": 7.26,
+      "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+      "poster": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 38700,
+      "title": "Bad Boys for Life",
+      "rating": 7.124,
+      "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+      "poster": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1025463,
+      "title": "Bionic",
+      "rating": 5.423,
+      "overview": "When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.",
+      "poster": "https://image.tmdb.org/t/p/w500/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 786892,
+      "title": "Furiosa: A Mad Max Saga",
+      "rating": 7.636,
+      "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+      "poster": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/7v4gev91nO3i66Zzygh9jplu9UI.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 1263421,
+      "title": "Baki Hanma VS Kengan Ashura",
+      "rating": 8.099,
+      "overview": "It's the ultimate showdown. The toughest fighters from \"Baki Hanma\" and \"Kengan Ashura\" clash in this unprecedented, hard-hitting martial arts crossover.",
+      "poster": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        }
+      ]
+    },
+    {
+      "id": 1011985,
+      "title": "Kung Fu Panda 4",
+      "rating": 7.121,
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 1136318,
+      "title": "Battle Over Britain",
+      "rating": 6.173,
+      "overview": "A young pilot, fresh out of training, is called to join a Flight while they wait for the call to scramble. Throughout a single day, he witnesses the skies of southern England filled with deadly dog fights, and after every exhausting battle the men return to their dispersal hut, only to find another of their number missing. Unwilling to surrender, the pilot and his comrades unite to take to the skies once more, determined to defend not only the airfield, but their entire country.",
+      "poster": "https://image.tmdb.org/t/p/w500/8htJ7keZTwa08aC9OKyiqaq1cNJ.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/11G6N5zW0KykVS0EcNKeXHUmQj8.jpg",
+      "genre": [
+        {
+          "id": 10752,
+          "name": "War"
+        }
+      ]
+    },
+    {
+      "id": 437342,
+      "title": "The First Omen",
+      "rating": 6.777,
+      "overview": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+      "poster": "https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/tkHQ7tnYYUEnqlrKuhufIsSVToU.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ]
+    }
+  ],
+
+  "tv": [
+    {
+      "id": 224,
+      "title": "Match of the Day",
+      "rating": 7.271,
+      "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
+      "poster": "https://image.tmdb.org/t/p/w500/aA25JrHXj8ZPTJYj2iSIueyb34C.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/dasgPx3OgkxHSQyncKlApfZkpi2.jpg",
+      "genre": [
+        {
+          "id": 10763,
+          "name": "News"
+        },
+        {
+          "id": 10767,
+          "name": "Talk"
+        }
+      ]
+    },
+    {
+      "id": 12415,
+      "title": "Egoli: Place of Gold",
+      "rating": 7,
+      "overview": "A South African television soap opera created by Franz Marx which revolves around the daily ups, downs, trials and tribulations of a handful of families in and around Johannesburg (which is often referred to as eGoli - the City of Gold)",
+      "poster": "https://image.tmdb.org/t/p/w500/5X0SWyNJ5IjN9YSXlbHBOVMzh1G.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/9daf0KXr3xUkMt2NCI0ZhDIZJEa.jpg",
+      "genre": [
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 1636,
+      "title": "Top of the Pops",
+      "rating": 6.613,
+      "overview": "The biggest stars, the most iconic performances, the most outrageous outfits – it’s Britain’s number one pop show.",
+      "poster": "https://image.tmdb.org/t/p/w500/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/q8fmM50In8xGVW0iYoENPa71kAA.jpg",
+      "genre": [
+        {
+          "id": 10764,
+          "name": "Reality"
+        }
+      ]
+    },
+    {
+      "id": 11366,
+      "title": "Big Brother",
+      "rating": 3.833,
+      "overview": "A British reality television game show in which a number of contestants live in an isolated house for several weeks, trying to avoid being evicted by the public with the aim of winning a large cash prize at the end of the run.",
+      "poster": "https://image.tmdb.org/t/p/w500/p7lsmCU5ZqaMGKZAuZMkFc02X8o.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/3SWOj8ydFrxiuZdLg63fDAt4jYR.jpg",
+      "genre": [
+        {
+          "id": 10764,
+          "name": "Reality"
+        }
+      ]
+    },
+    {
+      "id": 14686,
+      "title": "Alles was zählt",
+      "rating": 4.5,
+      "overview": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "poster": "https://image.tmdb.org/t/p/w500/kh7lcozUlj13uRqoZJ2ZjENkm9Q.jpg",
+      "banner": "https://image.tmdb.org/t/p/w500/kh7lcozUlj13uRqoZJ2ZjENkm9Q.jpg",
+      "genre": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 206559,
+      "title": "Binnelanders",
+      "rating": 5.529,
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "poster": "https://image.tmdb.org/t/p/w500/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+      "genre": [
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 13945,
+      "title": "Gute Zeiten, schlechte Zeiten",
+      "rating": 5.833,
+      "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+      "poster": "https://image.tmdb.org/t/p/w500/fNHBzjxsydcAssxXqb5IV2obDdU.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+      "genre": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 112470,
+      "title": "Here it all begins",
+      "rating": 7.148,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/yYNa1nqvNK94xZz3eKyfvZdAvPi.jpg",
+      "genre": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 206679,
+      "title": "Na lovu",
+      "rating": 5.875,
+      "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+      "poster": "https://image.tmdb.org/t/p/w500/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+      "genre": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 10764,
+          "name": "Reality"
+        }
+      ]
+    },
+    {
+      "id": 209374,
+      "title": "Top Chef VIP",
+      "rating": 4.5,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cw6M4c2MpLSzqzmrrqpSJlEbwCF.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/d1aFl8AQ3dFMsGbeF5wk6BOUwq8.jpg",
+      "genre": []
+    },
+    {
+      "id": 1412,
+      "title": "Arrow",
+      "rating": 6.816,
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+      "poster": "https://image.tmdb.org/t/p/w500/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/6UvUlyxNrLStWARart544iFXTWF.jpg",
+      "genre": [
+        {
+          "id": 10759,
+          "name": "Adventure"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 2261,
+      "title": "The Tonight Show Starring Johnny Carson",
+      "rating": 7.3,
+      "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+      "poster": "https://image.tmdb.org/t/p/w500/oA8QVTGlAN511uCAMDN60aVQUs1.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+      "genre": [
+        {
+          "id": 10767,
+          "name": "Talk"
+        }
+      ]
+    },
+    {
+      "id": 2190,
+      "title": "South Park",
+      "rating": 8.36,
+      "overview": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster": "https://image.tmdb.org/t/p/w500/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/41neXsH222hV2zrsTyw8h7javon.jpg",
+      "genre": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 14981,
+      "title": "The Late Late Show with Craig Ferguson",
+      "rating": 6.791,
+      "overview": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
+      "poster": "https://image.tmdb.org/t/p/w500/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+      "genre": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10767,
+          "name": "Talk"
+        }
+      ]
+    },
+    {
+      "id": 136166,
+      "title": "Lang Leve de Liefde",
+      "rating": 5.6,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9lpvvzEl5kViIc2vUJG4QKzj2ds.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/5S0SI4NjyMji05OPL0GOZ4BsiMh.jpg",
+      "genre": [
+        {
+          "id": 10764,
+          "name": "Reality"
+        }
+      ]
+    },
+    {
+      "id": 14743,
+      "title": "El Cor de la Ciutat",
+      "rating": 4.5,
+      "overview": "El cor de la ciutat is a TVC television soap opera first broadcast on TV3 on 11 September 2000 and last broadcast on 23 December 2009. The show is the most watched fiction program in Catalonia, Spain, especially among female audiences, drawing around 28-33% of the audience with as much as 40% during season finales. El cor de la ciutat follows the lives of the people who live and work in the neighbourhood of Sants and Sant Andreu in Barcelona, Catalonia, Spain.",
+      "poster": "https://image.tmdb.org/t/p/w500/xQ83cJA8AxoQMZe8ADApWrRZB1v.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/qhfPZOCZPTzArvMq78180NqzbWd.jpg",
+      "genre": [
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Doctor Who",
+      "rating": 7.8,
+      "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+      "poster": "https://image.tmdb.org/t/p/w500/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+      "genre": [
+        {
+          "id": 10759,
+          "name": "Adventure"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ]
+    },
+    {
+      "id": 235484,
+      "title": "Suidooster",
+      "rating": 8.1,
+      "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+      "poster": "https://image.tmdb.org/t/p/w500/naCgSiacvV685kait6fBvhVhdce.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+      "genre": [
+        {
+          "id": 10766,
+          "name": "Soap"
+        }
+      ]
+    },
+    {
+      "id": 235493,
+      "title": "De Bondgenoten",
+      "rating": 7.333,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
+      "genre": [
+        {
+          "id": 10764,
+          "name": "Reality"
+        }
+      ]
+    },
+    {
+      "id": 218145,
+      "title": "Mom for rent",
+      "rating": 5,
+      "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+      "poster": "https://image.tmdb.org/t/p/w500/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+      "genre": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ]
+    }
+  ],
+  "HorrorMovie": [
+    {
+      "id": 1001311,
+      "title": "Under Paris",
+      "rating": 5.794,
+      "overview": "In the Summer of 2024, Paris is hosting the World Triathlon Championships on the Seine for the first time. Sophia, a brilliant scientist, learns from Mika, a young environmental activist, that a large shark is swimming deep in the river. To avoid a bloodbath at the heart of the city, they have no choice but to join forces with Adil, the Seine river police commander.",
+      "poster": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/hliXekHv7xc2cgXnMBLlp4Eihq8.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ]
+    },
+    {
+      "id": 719221,
+      "title": "Tarot",
+      "rating": 6.502,
+      "overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+      "poster": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/oavbmL3iddJUmC8nQjL6bLHwAP4.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 437342,
+      "title": "The First Omen",
+      "rating": 6.781,
+      "overview": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+      "poster": "https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/tkHQ7tnYYUEnqlrKuhufIsSVToU.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 940721,
+      "title": "Godzilla Minus One",
+      "rating": 7.618,
+      "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "poster": "https://image.tmdb.org/t/p/w500/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 969686,
+      "title": "4 Horsemen: Apocalypse",
+      "rating": 5.876,
+      "overview": "A small team of scientists must race against time to stop what seems to be a cascade of global disasters signaling the possible apocalypse and end of days.",
+      "poster": "https://image.tmdb.org/t/p/w500/dt3mo4tArf2llDiht91cnvUtSgT.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/b93N6Mb08NhFhobB8KrR5GBaPP5.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 1041613,
+      "title": "Immaculate",
+      "rating": 6.304,
+      "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+      "poster": "https://image.tmdb.org/t/p/w500/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/5Eip60UDiPLASyKjmHPMruggTc4.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1096197,
+      "title": "No Way Up",
+      "rating": 6.464,
+      "overview": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.",
+      "poster": "https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1264966,
+      "title": "Silence of the Prey",
+      "rating": 3.8,
+      "overview": "In a desperate bid to secure a future for her child, an undocumented immigrant mother takes a caretaker job. Unbeknownst to her, the elderly man conceals a horrifying truth.",
+      "poster": "https://image.tmdb.org/t/p/w500/xRKmXt7036pVZ0OMNgzLsGa26pX.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/2aBDIqdSchYcPnkXqMRctRfYjSV.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1087388,
+      "title": "Sting",
+      "rating": 6.444,
+      "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1086747,
+      "title": "The Watchers",
+      "rating": 5.855,
+      "overview": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+      "poster": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/oZDRuGHhe5uY8wBqFJcJZT9kdvJ.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1111873,
+      "title": "Abigail",
+      "rating": 6.811,
+      "overview": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+      "poster": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+      "genre": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 1211728,
+      "title": "The 100 Candles Game: The Last Possession",
+      "rating": 5.8,
+      "overview": "Sequel to The 100 Candles Game (2020).",
+      "poster": "https://image.tmdb.org/t/p/w500/3hTBpHgivJQtdsjFPgAc3U8KxSX.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/lA93AaUEv6VYRvzpy0XMOKYwEoN.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 1079485,
+      "title": "Winnie-the-Pooh: Blood and Honey 2",
+      "rating": 6.533,
+      "overview": "Five months following the murders, Christopher Robin tries returning to his regular life while dealing with his PTSD. Deep within the 100-Acre-Wood, a destructive rage grows as Winnie-the-Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
+      "poster": "https://image.tmdb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+      "genre": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ]
+    },
+    {
+      "id": 1034751,
+      "title": "Vampiras: The Brides",
+      "rating": 6.4,
+      "overview": "After more than 300 years in hiding, Dracula's brides, Luna, Adriana and his new apprentice Katya, must team up once again to stop the most diabolical threat from their past, his sister Mina.",
+      "poster": "https://image.tmdb.org/t/p/w500/vGl6JzSvwfTllfw4UZ9MD8nD42Y.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/4OwkbRacTGBkHRehVbmtsLoV84u.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 1064178,
+      "title": "Hunt Club",
+      "rating": 4.214,
+      "overview": "Follows a group of male hunters who regularly lure women to their island with the chance to win 100K in a hunt, only to discover that they are the hunted, but this time they mess with the wrong girls and must deal with the consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/qmMazCTqdQNaqeCVeKysT6I3uz4.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/4CjNJ1zi89Z9ZNgjTiKJSv8CRDz.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1142414,
+      "title": "Cheat",
+      "rating": 0,
+      "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+      "poster": "https://image.tmdb.org/t/p/w500/qDHxW0SgM8vbQPhWubXzYR1KGvz.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 838209,
+      "title": "Exhuma",
+      "rating": 7.44,
+      "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains—and soon discovers what happens to those who dare to mess with the wrong grave.",
+      "poster": "https://image.tmdb.org/t/p/w500/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/aINel9503ompOlGKn4sIVMg09Un.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 1151703,
+      "title": "Island Escape",
+      "rating": 4.833,
+      "overview": "Trapped on an island, a team of mercenaries on a rescue mission begin to question everything around them as they encounter threatening creatures living in the shadows.",
+      "poster": "https://image.tmdb.org/t/p/w500/5TA3AmwWKasVMRFGXZk0gRv2Oz6.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/fW24uPVG36CFc3t9ZZmBx4eZSrw.jpg",
+      "genre": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "id": 938614,
+      "title": "Late Night with the Devil",
+      "rating": 7.283,
+      "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "poster": "https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/4yrOyO3N55XazHQXXYoqiiPQd40.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 760104,
+      "title": "X",
+      "rating": 6.73,
+      "overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg",
+      "banner": "https://image.tmdb.org/t/p/original/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg",
+      "genre": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ]
+    }
+  ],
+  "ComedyMovie": [
+        {
+            "id": 1022789,
+            "title": "Inside Out 2",
+            "rating": 7.527,
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+            "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+            "genre": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 573435,
+            "title": "Bad Boys: Ride or Die",
+            "rating": 6.996,
+            "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "poster": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/gRApXuxWmO2forYTuTmcz5RaNUV.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 955555,
+            "title": "The Roundup: No Way Out",
+            "rating": 7.02,
+            "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+            "poster": "https://image.tmdb.org/t/p/w500/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 150540,
+            "title": "Inside Out",
+            "rating": 7.915,
+            "overview": "From an adventurous balloon ride above the clouds to a monster-filled metropolis, Academy Award®-winning director Pete Docter (“Monsters, Inc.,” “Up”) has taken audiences to unique and imaginative places. In Disney and Pixar’s original movie “ Inside Out,” he will take us to the most extraordinary location of all—inside the mind.",
+            "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+            "genre": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 974635,
+            "title": "Hit Man",
+            "rating": 7,
+            "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+            "poster": "https://image.tmdb.org/t/p/w500/1126gjlBf4hTm9Sgf0ox3LGVEBt.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+            "genre": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ]
+        },
+        {
+            "id": 746036,
+            "title": "The Fall Guy",
+            "rating": 7.271,
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "poster": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 1011985,
+            "title": "Kung Fu Panda 4",
+            "rating": 7.117,
+            "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+            "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 748783,
+            "title": "The Garfield Movie",
+            "rating": 6.5,
+            "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+            "poster": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/vWzJDjLPmycnQ42IppEjMpIhrhc.jpg",
+            "genre": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 9737,
+            "title": "Bad Boys",
+            "rating": 6.801,
+            "overview": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+            "poster": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 1197406,
+            "title": "El Halcón: Sed de Venganza",
+            "rating": 8.222,
+            "overview": "Criminals control Mexico and wrestling is now illegal. A retired fighter and a policewoman join forces to stop the perfidious criminal who has kidnapped her son.",
+            "poster": "https://image.tmdb.org/t/p/w500/nUCkSoWsL9L77HdLFLCTiEyJlO7.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/7KcwyOQL6hC6VJxN7LBB1p2GRaY.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 940551,
+            "title": "Migration",
+            "rating": 7.442,
+            "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+            "poster": "https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                }
+            ]
+        },
+        {
+            "id": 8961,
+            "title": "Bad Boys II",
+            "rating": 6.618,
+            "overview": "Detectives Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force are tasked with stopping the flow of the drug ecstasy into Miami. They track the drugs to the whacked-out Cuban drug lord Johnny Tapia, who is also involved in a bloody war with Russian and Haitian mobsters. If that isn't bad enough, there's tension between the two detectives when Marcus discovers that playboy Mike is secretly romancing Marcus’ sister, Syd.",
+            "poster": "https://image.tmdb.org/t/p/w500/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 641934,
+            "title": "Am I OK?",
+            "rating": 6.079,
+            "overview": "Lucy and Jane have been best friends for most of their lives and think they know everything there is to know about each other. But when Jane announces she's moving to London, Lucy reveals a long-held secret. As Jane tries to help Lucy, their friendship is thrown into chaos.",
+            "poster": "https://image.tmdb.org/t/p/w500/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/rzu9BVI9HqY5rG0Xq05ZhewdkYP.jpg",
+            "genre": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ]
+        },
+        {
+            "id": 843527,
+            "title": "The Idea of You",
+            "rating": 7.411,
+            "overview": "Solène, a 40-year-old single mom, begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. When Solène must step in to chaperone her teenage daughter's trip to the Coachella Music Festival after her ex bails at the last minute, she has a chance encounter with Hayes and there is an instant, undeniable spark. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+            "poster": "https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+            "genre": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ]
+        },
+        {
+            "id": 967847,
+            "title": "Ghostbusters: Frozen Empire",
+            "rating": 6.651,
+            "overview": "When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+            "poster": "https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/wODqakS0jinTUECNS6n4VomQbew.jpg",
+            "genre": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 533535,
+            "title": "Deadpool & Wolverine",
+            "rating": 0,
+            "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+            "poster": "https://image.tmdb.org/t/p/w500/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/hzr7GhCoWTeQQMKDR6LXhN8x9fs.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 519182,
+            "title": "Despicable Me 4",
+            "rating": 0,
+            "overview": "Gru and Lucy and their girls — Margo, Edith and Agnes — welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+            "poster": "https://image.tmdb.org/t/p/w500/3w84hCFJATpiCO5g8hpdWVPBbmq.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/ycCj6Ssuu2IdM23AYR7B8nbxQPA.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 639720,
+            "title": "IF",
+            "rating": 7.067,
+            "overview": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+            "poster": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+            "genre": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 1111873,
+            "title": "Abigail",
+            "rating": 6.811,
+            "overview": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+            "poster": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+            "genre": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ]
+        },
+        {
+            "id": 1284004,
+            "title": "May the 12th Be with You",
+            "rating": 5.125,
+            "overview": "It's Mother's Day and Marge Simpson joins the moms of Disney+ on a special holiday outing that turns into an epic galactic adventure filled with heroes, villains, and Stewie from Family Guy.",
+            "poster": "https://image.tmdb.org/t/p/w500/sHJ2OIgpcpSmhqXkuSWxZ3nwg1S.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/7IgL9NzlXSSHXyYoZHXVJEKQhkg.jpg",
+            "genre": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        }
+    ],
+  "ActionMovie": [
+        {
+            "id": 653346,
+            "title": "Kingdom of the Planet of the Apes",
+            "rating": 6.822,
+            "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+            "poster": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 1001311,
+            "title": "Under Paris",
+            "rating": 5.812,
+            "overview": "In the Summer of 2024, Paris is hosting the World Triathlon Championships on the Seine for the first time. Sophia, a brilliant scientist, learns from Mika, a young environmental activist, that a large shark is swimming deep in the river. To avoid a bloodbath at the heart of the city, they have no choice but to join forces with Adil, the Seine river police commander.",
+            "poster": "https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/hliXekHv7xc2cgXnMBLlp4Eihq8.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ]
+        },
+        {
+            "id": 573435,
+            "title": "Bad Boys: Ride or Die",
+            "rating": 7.046,
+            "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "poster": "https://image.tmdb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/gRApXuxWmO2forYTuTmcz5RaNUV.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 823464,
+            "title": "Godzilla x Kong: The New Empire",
+            "rating": 7.217,
+            "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+            "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 955555,
+            "title": "The Roundup: No Way Out",
+            "rating": 7.051,
+            "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+            "poster": "https://image.tmdb.org/t/p/w500/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 929590,
+            "title": "Civil War",
+            "rating": 7.021,
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "poster": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10752,
+                    "name": "War"
+                }
+            ]
+        },
+        {
+            "id": 626412,
+            "title": "Alienoid: Return to the Future",
+            "rating": 6.652,
+            "overview": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+            "poster": "https://image.tmdb.org/t/p/w500/4RClncz0GTKPZzSAcAalHCw0h3g.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/kZbTOcTrEGyroQMWQSGIRlNSkwP.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 614933,
+            "title": "Atlas",
+            "rating": 6.746,
+            "overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+            "poster": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 746036,
+            "title": "The Fall Guy",
+            "rating": 7.276,
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "poster": "https://image.tmdb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 38700,
+            "title": "Bad Boys for Life",
+            "rating": 7.124,
+            "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+            "poster": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ]
+        },
+        {
+            "id": 1025463,
+            "title": "Bionic",
+            "rating": 5.6,
+            "overview": "When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.",
+            "poster": "https://image.tmdb.org/t/p/w500/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 1011985,
+            "title": "Kung Fu Panda 4",
+            "rating": 7.118,
+            "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+            "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 786892,
+            "title": "Furiosa: A Mad Max Saga",
+            "rating": 7.631,
+            "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "poster": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/7v4gev91nO3i66Zzygh9jplu9UI.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 1263421,
+            "title": "Baki Hanma VS Kengan Ashura",
+            "rating": 8.143,
+            "overview": "It's the ultimate showdown. The toughest fighters from \"Baki Hanma\" and \"Kengan Ashura\" clash in this unprecedented, hard-hitting martial arts crossover.",
+            "poster": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                }
+            ]
+        },
+        {
+            "id": 1197406,
+            "title": "El Halcón: Sed de Venganza",
+            "rating": 8.222,
+            "overview": "Criminals control Mexico and wrestling is now illegal. A retired fighter and a policewoman join forces to stop the perfidious criminal who has kidnapped her son.",
+            "poster": "https://image.tmdb.org/t/p/w500/nUCkSoWsL9L77HdLFLCTiEyJlO7.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/7KcwyOQL6hC6VJxN7LBB1p2GRaY.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 9737,
+            "title": "Bad Boys",
+            "rating": 6.801,
+            "overview": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+            "poster": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ]
+        },
+        {
+            "id": 980083,
+            "title": "Top Gunner: Danger Zone",
+            "rating": 5.404,
+            "overview": "An airliner filled with 800 passengers is forced to fly fast and low, above farmlands, suburbs and skyscraper-packed cities or the tons of explosives aboard will detonate. When an elite unit of US Air Force fighter jets is sent to provide escort, they find themselves facing a squadron of unidentifiable warplanes which ignites a deadly air battle that threatens to destroy all life above and below.",
+            "poster": "https://image.tmdb.org/t/p/w500/29UCk1nvPzn2XubLk5rKDMlHBRu.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/s9hW1DHfgy5ppK1fTUJuMKh4YFK.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ]
+        },
+        {
+            "id": 1115623,
+            "title": "The Last Kumite",
+            "rating": 5.167,
+            "overview": "When Karate champion Michael Rivers wins the last tournament of his career, shady businessman Ron Hall offers him the opportunity to fight in an illegal Kumite in Bulgaria against the world’s best martial artists.  When Michael declines, Hall has his daughter kidnapped and, in order to rescue her, Rivers is left with no choice but to compete in the deadly tournament. Arriving in Bulgaria, he finds out that he is not the only fighter whose loved one was taken. Rivers enlists the help of trainers Master Loren, and Julie Jackson but will it be enough for him to win the tournament and save his daughter’s life?",
+            "poster": "https://image.tmdb.org/t/p/w500/zDkaJgsPoSqa2cMe2hW2HAfyWwO.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/9Or1qeUZyOSQVglRXGnqc6owp21.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ]
+        },
+        {
+            "id": 940721,
+            "title": "Godzilla Minus One",
+            "rating": 7.619,
+            "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+            "poster": "https://image.tmdb.org/t/p/w500/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ]
+        },
+        {
+            "id": 1147400,
+            "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+            "rating": 7.322,
+            "overview": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?",
+            "poster": "https://image.tmdb.org/t/p/w500/7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/hU1Q9YVzdYhokr8a9gLywnSUMlN.jpg",
+            "genre": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                }
+            ]
+        }
+    ],
+    "OnlyOnNetflix": [
+        {
+            "id": 91239,
+            "title": "Bridgerton",
+            "rating": 8.135,
+            "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+            "poster": "https://image.tmdb.org/t/p/w500/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/m1rvaIIrDGwSYMt5mWG1WiTndmE.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 90855,
+            "title": "SAINT SEIYA: Knights of the Zodiac",
+            "rating": 7.418,
+            "overview": "Seiya and the Knights of the Zodiac rise again to protect the reincarnation of the goddess Athena, but a dark prophecy hangs over them all.",
+            "poster": "https://image.tmdb.org/t/p/w500/il9scUkw3q8bs1HGFotJhcPNo1J.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/lA3MKdT3QOrYGe5dg7Uzuceu8zZ.jpg",
+            "genre": [
+                {
+                    "id": 10759,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10765,
+                    "name": "Sci-Fi & Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 225320,
+            "title": "LEGO DREAMZzz",
+            "rating": 7.7,
+            "overview": "A group of kids join a secret agency where they learn to use the power of imagination to journey into the Dream World and create fantastic creations in order to help sleeping children being terrorized by the evil Nightmare King who is bent on conquering the Dream World and invading the Waking World.",
+            "poster": "https://image.tmdb.org/t/p/w500/6sa43ghLgVY0zi0imlG2jfGYCQx.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/mE4fg75993CmTCadeIrMEiGl9CD.jpg",
+            "genre": [
+                {
+                    "id": 10759,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10762,
+                    "name": "Kids"
+                }
+            ]
+        },
+        {
+            "id": 103768,
+            "title": "Sweet Tooth",
+            "rating": 7.845,
+            "overview": "On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector.",
+            "poster": "https://image.tmdb.org/t/p/w500/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10765,
+                    "name": "Sci-Fi & Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 242876,
+            "title": "Raising Voices",
+            "rating": 7.902,
+            "overview": "When a 17-year-old reports a sexual assault at her high school, an investigation upends her life and tests her relationships.",
+            "poster": "https://image.tmdb.org/t/p/w500/zPFuNgt97Cej8jjZjMtAbL65Dor.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/ieiq46OoeTrLkjtclmhii6iRyzP.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 226527,
+            "title": "Hierarchy",
+            "rating": 7.745,
+            "overview": "The top 0.01% of students control law and order at Jooshin High School, but a secretive transfer student chips a crack in their indomitable world.",
+            "poster": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/9VPNHVHT3d3FzLQiHO4cq4Ysl3r.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 63174,
+            "title": "Lucifer",
+            "rating": 8.47,
+            "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+            "poster": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/aDBRtunw49UF4XmqfyNuD9nlYIu.jpg",
+            "genre": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 10765,
+                    "name": "Sci-Fi & Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 218577,
+            "title": "Dew Drop Diaries",
+            "rating": 6.7,
+            "overview": "From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.",
+            "poster": "https://image.tmdb.org/t/p/w500/89W3MTFTaQCMUXmAvDopxCkRPjq.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/eEu5PBkIg7uCMsaeCwtktDzmZat.jpg",
+            "genre": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10762,
+                    "name": "Kids"
+                }
+            ]
+        },
+        {
+            "id": 156898,
+            "title": "BASTARD‼ -Heavy Metal, Dark Fantasy-",
+            "rating": 7.513,
+            "overview": "When evil forces threaten to resurrect Anthrasax, the God of Destruction, the Kingdom of Meta-llicana calls on a volatile dark wizard for help.",
+            "poster": "https://image.tmdb.org/t/p/w500/l9JU3dlMumuRXxHilT6RSWQ5OT9.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/3KoMq6ll73zwb3ZiY04DmgAozDl.jpg",
+            "genre": [
+                {
+                    "id": 10759,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10765,
+                    "name": "Sci-Fi & Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 43901,
+            "title": "Longmire",
+            "rating": 7.693,
+            "overview": "A Wyoming sheriff rebuilds his life and career following the death of his wife. Based on the “Walt Longmire” series of mystery novels written by best-selling author Craig Johnson.",
+            "poster": "https://image.tmdb.org/t/p/w500/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
+            "genre": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 37,
+                    "name": "Western"
+                }
+            ]
+        },
+        {
+            "id": 127753,
+            "title": "Johnny Test",
+            "rating": 7.2,
+            "overview": "How much trouble could one imaginative boy, his faithful dog and two science-loving sisters possibly get into? Hmm, that sounds like a challenge!",
+            "poster": "https://image.tmdb.org/t/p/w500/drA7JI2BqdI3sdvPIUyp2gDMkBN.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/j8Xhav4n6M9XwhCQ7b2IpblURiR.jpg",
+            "genre": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ]
+        },
+        {
+            "id": 2328,
+            "title": "Power Rangers",
+            "rating": 7.034,
+            "overview": "A team of teenagers with attitude are recruited to save Angel Grove from the evil witch, Rita Repulsa, and later, Lord Zedd, Emperor of all he sees, and their horde of monsters.",
+            "poster": "https://image.tmdb.org/t/p/w500/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/i01wnWz0Z3rMATqbkAVLHEaGbNP.jpg",
+            "genre": [
+                {
+                    "id": 10759,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10762,
+                    "name": "Kids"
+                },
+                {
+                    "id": 10765,
+                    "name": "Sci-Fi & Fantasy"
+                }
+            ]
+        },
+        {
+            "id": 132983,
+            "title": "Octonauts: Above & Beyond",
+            "rating": 8.4,
+            "overview": "The Octonauts expand their exploration beyond the sea -- and onto land! With new rides and new friends, they'll protect any habitats and animals at risk.",
+            "poster": "https://image.tmdb.org/t/p/w500/rqKyiPfa2dbuo9Wowkd3cVNbBYo.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/9Pz1blrXYlkch3TixaXnZSYghK4.jpg",
+            "genre": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 10762,
+                    "name": "Kids"
+                }
+            ]
+        },
+        {
+            "id": 241259,
+            "title": "Baby Reindeer",
+            "rating": 7.7,
+            "overview": "When a struggling comedian shows one act of kindness to a vulnerable woman, it sparks a suffocating obsession which threatens to wreck both their lives.",
+            "poster": "https://image.tmdb.org/t/p/w500/e5MUdXRjl90Up5dAEdvsGs4zAAS.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/tTGhI7lqd4frPS6XzR0d5gcXTMc.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 1424,
+            "title": "Orange Is the New Black",
+            "rating": 7.667,
+            "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+            "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/z8Mg3YVZGd1iSnoDinEAoh9WTck.jpg",
+            "genre": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 117023,
+            "title": "Sky Rojo",
+            "rating": 7.561,
+            "overview": "On the run from their pimp and his henchmen, three women embark on a wild and crazy journey in search of freedom.",
+            "poster": "https://image.tmdb.org/t/p/w500/vu2uJEdX3UPcF8NC6wvBXGcsDJ4.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/eindfDG2l77gBGqaspGvzn8DOTF.jpg",
+            "genre": [
+                {
+                    "id": 10759,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 1425,
+            "title": "House of Cards",
+            "rating": 8.022,
+            "overview": "Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.",
+            "poster": "https://image.tmdb.org/t/p/w500/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/yJjxO44EvaMYeeM9VHXHzdZ1kYL.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ]
+        },
+        {
+            "id": 212989,
+            "title": "LEGO Ninjago: Dragons Rising",
+            "rating": 8,
+            "overview": "Two teenagers from different worlds use their newly discovered Ninja powers to defend dragons from villains who want to use their life-force for evil.",
+            "poster": "https://image.tmdb.org/t/p/w500/aUOgcqXVy7tSus5u6OJeB1pB8uL.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/p1P0QJ3cqeBnODfyQd2ceEZ23KQ.jpg",
+            "genre": [
+                {
+                    "id": 10759,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10762,
+                    "name": "Kids"
+                }
+            ]
+        },
+        {
+            "id": 116250,
+            "title": "Bling Empire",
+            "rating": 7.2,
+            "overview": "Follow LA's wildly wealthy Asian and Asian American fun seekers as they go all out with fabulous parties, glamour and drama in this reality series.",
+            "poster": "https://image.tmdb.org/t/p/w500/gMiq9zJs4UNFV61HKhfWvbzLFgu.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/zzgiKbbJ25sGLu8uD7Acte0skwB.jpg",
+            "genre": [
+                {
+                    "id": 10764,
+                    "name": "Reality"
+                }
+            ]
+        },
+        {
+            "id": 66732,
+            "title": "Stranger Things",
+            "rating": 8.61,
+            "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+            "banner": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "genre": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 10765,
+                    "name": "Sci-Fi & Fantasy"
+                }
+            ]
+        }
+    ]
+}
